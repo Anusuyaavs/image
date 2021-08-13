@@ -1,0 +1,14 @@
+*{
+    text-align: center;
+    background-color:rgb(155, 106, 140);
+}
+h4{
+    color: rgba(red, green, blue, alpha);
+}
+img
+{
+height: 300px;
+width: 300px;
+border-radius:50%;
+border: 5px solid rgb(46, 141, 133);
+}
